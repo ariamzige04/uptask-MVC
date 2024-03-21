@@ -13,4 +13,4 @@ Tambien debes de iniciar un nueva instancia en la terminal y escribir el comando
 
 
 Sitio web: 
-http://uptask.rf.gd/
+http://uptask1.rf.gd/
